@@ -6,5 +6,5 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 2
+scenarioCount: 0
 title: Test Lp Upload Zero
